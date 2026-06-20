@@ -209,7 +209,7 @@ CNN-based skin-cancer detector built with PyTorch, using image augmentation to o
 
 | Role | Company | Where | When |
 |------|---------|-------|------|
-| **Data Analyst** | Advantage Car & Truck Rentals | Toronto, CA | Aug 2024 – Dec 2025 |
+| **Data Analyst** | Advantage Car & Truck Rentals | Toronto, CA | Aug 2024 – Present |
 | **BI Data Analyst** | IDD Research Solutions | Bangalore, IN | Jun 2021 – Sep 2021 |
 
 - Built predictive models (regression, classification, clustering) in Python to forecast demand, segment customers, and optimize operations.
