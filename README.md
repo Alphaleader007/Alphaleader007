@@ -222,7 +222,7 @@ CNN-based skin-cancer detector built with PyTorch, using image augmentation to o
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:35E0C4,100:FFB454&height=3&section=header"/>
 <!-- ░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/Alphaleader007)
+
 </div>
 <!-- ░░░░░░░░░░░░░░░░  CONNECT / FOOTER  ░░░░░░░░░░░░░░░░ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Let's Connect
@@ -233,7 +233,7 @@ I'm always open to collaborating on **Gen AI**, **agents**, and **ML** projects 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=FFFFFF&labelColor=070A12)](https://www.linkedin.com/in/aeshwanth)
 [![Email](https://img.shields.io/badge/✉️_Gmail-FFB454?style=for-the-badge&logoColor=070A12&labelColor=070A12)](mailto:aeshwanth.venkidesh@gmail.com)
 </div>
-c
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB454,100:35E0C4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=070A12&fontAlignY=72&animation=fadeIn"/>
 
