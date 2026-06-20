@@ -218,11 +218,6 @@ CNN-based skin-cancer detector built with PyTorch, using image augmentation to o
 - Helped build a clinical-trial database, cutting site training time and cost by **50%**.
 
 </details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:35E0C4,100:FFB454&height=3&section=header"/>
-<!-- ░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░ -->
-<div align="center">
-
 </div>
 <!-- ░░░░░░░░░░░░░░░░  CONNECT / FOOTER  ░░░░░░░░░░░░░░░░ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Let's Connect
