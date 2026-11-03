@@ -11,7 +11,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░  HEADER WAVE BANNER  ░░░░░░░░░░░░░░░░ -->
 <a href="https://aeshwanth.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:35E0C4,100:FFB454&height=220&section=header&text=Aeshwanth%20Venkidesh&fontSize=52&fontColor=070A12&fontAlignY=34&animation=fadeIn&desc=Gen%20AI%20Software%20Developer%20•%20ML%20Engineer%20•%20Multi-Agent%20Systems&descSize=18&descAlignY=54&descColor=070A12" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:35E0C4,100:FFB454&height=220&section=header&text=Aeshwanth%20Venkidesh&fontSize=52&fontColor=070A12&fontAlignY=34&animation=fadeIn&desc=Data%20Engineer%20•Gen%20AI%20Developer%20•%20ML%20Engineer%20•%20Multi-Agent%20Systems&descSize=18&descAlignY=54&descColor=070A12" alt="header"/>
 </a>
 
 <!-- ░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░ -->
