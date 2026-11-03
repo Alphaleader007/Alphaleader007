@@ -202,22 +202,6 @@ CNN-based skin-cancer detector built with PyTorch, using image augmentation to o
 </tr>
 </table>
 
-<details>
-  <summary><b>💼 &nbsp;Experience timeline (click to expand)</b></summary>
-
-<br/>
-
-| Role | Company | Where | When |
-|------|---------|-------|------|
-| **Data Analyst** | Advantage Car & Truck Rentals | Toronto, CA | Aug 2025 – July 2026 |
-| **BI Data Analyst** | IDD Research Solutions | Bangalore, IN | Jun 2021 – Sep 2021 |
-
-- Built predictive models (regression, classification, clustering) in Python to forecast demand, segment customers, and optimize operations.
-- Automated real-time data collection, cleaning & preprocessing with Python + SQL.
-- Designed Tableau & Power BI dashboards that informed pricing strategy and fleet planning.
-- Helped build a clinical-trial database, cutting site training time and cost by **50%**.
-
-</details>
 </div>
 <!-- ░░░░░░░░░░░░░░░░  CONNECT / FOOTER  ░░░░░░░░░░░░░░░░ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Let's Connect
@@ -225,7 +209,7 @@ CNN-based skin-cancer detector built with PyTorch, using image augmentation to o
 I'm always open to collaborating on **Gen AI**, **agents**, and **ML** projects — or just talking shop.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-35E0C4?style=for-the-badge&logoColor=070A12&labelColor=070A12)](https://aeshwanth.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=FFFFFF&labelColor=070A12)](https://www.linkedin.com/in/aeshwanth)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=FFFFFF&labelColor=070A12)](https://www.linkedin.com/in/aeshwanthvenki)
 [![Email](https://img.shields.io/badge/✉️_Gmail-FFB454?style=for-the-badge&logoColor=070A12&labelColor=070A12)](mailto:aeshwanth.venkidesh@gmail.com)
 </div>
 
