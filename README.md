@@ -17,7 +17,7 @@
 <!-- ░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=35E0C4&center=true&vCenter=true&width=640&lines=Data+Analyst+%E2%86%92+Gen+AI+Engineer;Building+multi-agent+systems+%F0%9F%A4%96;Training+neural+networks+with+Python+%F0%9F%A7%A0;Shipping+LLM-powered+applications+%E2%9A%A1)](https://aeshwanth.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=35E0C4&center=true&vCenter=true&width=640&lines=Data+Analyst+%E2%86%92+Gen+AI+Engineer;Building+multi-agent+systems+%F0%9F%A4%96;Data+Engineering+with+Azure+%F0%9F%A7%A0;Shipping+LLM-powered+applications+%E2%9A%A1)](https://aeshwanth.vercel.app/)
 
 <!-- ░░░░░░░░░░░░░░░░  STATUS + SOCIAL BADGES  ░░░░░░░░░░░░░░░░ -->
 
