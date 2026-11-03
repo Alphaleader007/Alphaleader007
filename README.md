@@ -36,16 +36,16 @@
 <!-- ░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Hi there, I'm Aeshwanth
 
-> Aspiring **Gen AI software developer** with a strong Python + machine-learning foundation. I build **multi-agent systems** and **autonomous agents**, train **neural networks**, and turn messy data into decisions. Master's in Analytics. Currently seeking a **Gen AI software development internship** to build and ship LLM-powered applications.
+> Aspiring **Data engineer** with a strong Python + machine-learning foundation. I build **multi-agent systems** and **autonomous agents**, train **neural networks**, and turn messy data into decisions. Master's in Analytics. Currently seeking a **Data related roles and ML/AI roles** to build data solutions and ship LLM-powered applications.
 
 ```python
 class Aeshwanth:
     def __init__(self):
-        self.role        = "Gen AI Software Developer"
+        self.role        = "Data Engineer/ Gen AI Engineer"
         self.location    = "Toronto, ON, Canada 🇨🇦"
         self.education   = "M.P.S. Analytics — Northeastern University"
         self.focus       = ["multi-agent systems", "autonomous agents", "neural nets"]
-        self.stack       = ["Python", "SQL", "TensorFlow", "scikit-learn", "AWS"]
+        self.stack       = ["Python", "SQL", "TensorFlow", "scikit-learn", "AWS","Azure"]
         self.currently   = "shipping LLM-powered applications"
 
     def say_hi(self):
@@ -59,10 +59,9 @@ class Aeshwanth:
 
 - 🧠 &nbsp;**Now building** — cooperating subagents for data-quality monitoring (schema validation, freshness, anomaly detection, lineage tracing).
 - 🎓 &nbsp;**M.P.S. Analytics** @ Northeastern University · **B.Tech ECE** @ SASTRA.
-- 💼 &nbsp;**Experience** — Data Analyst @ Advantage Car & Truck Rentals · BI Data Analyst @ IDD Research Solutions.
 - 📜 &nbsp;**Certifications** — Advanced Prompt Engineering & Memory Management (DeepLearning.AI) · Google Data Analytics · AWS Cloud Practitioner · KPMG Analytics Virtual Internship.
-- 🌱 &nbsp;**Learning** — agentic workflows, LLM evaluation, and production ML.
-- 💬 &nbsp;**Ask me about** — agents, prompt engineering, neural nets, or dashboards.
+- 🌱 &nbsp;**Learning** — Azure Data engineering, agentic workflows, LLM evaluation, and production ML.
+- 💬 &nbsp;**Ask me about** — DE, Agents, prompt engineering, neural nets, or dashboards.
 - 📫 &nbsp;**Reach me** — [aeshwanth.venkidesh@gmail.com](mailto:aeshwanth.venkidesh@gmail.com)
 
 </details>
